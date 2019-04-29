@@ -38,5 +38,3 @@ jobs:
 
       # install app
       - run: npm install
-      # run app
-      - run: npm start
